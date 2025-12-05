@@ -1,5 +1,6 @@
 
 using HaneenStore2.DAL.Data;
+using HaneenStore2.DAL.Repository;
 using Microsoft.AspNetCore.Localization;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Options;
@@ -48,6 +49,7 @@ namespace HaneenStore2.PL
         
             builder.Services.AddSwaggerGen();
 
+            builder.Services.AddScoped<ICategoryRepository, CategoryRepository>();
             var app = builder.Build();
 
             app.UseRequestLocalization(app.Services.GetRequiredService<IOptions<RequestLocalizationOptions>>().Value);

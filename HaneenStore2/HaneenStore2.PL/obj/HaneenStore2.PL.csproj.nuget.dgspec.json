@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USER\\Desktop\\all\\desktop\\newWeb\\BE\\API\\s5\\Try4-project\\HaneenStore2\\HaneenStore2.PL\\HaneenStore2.PL.csproj": {}
+    "C:\\Users\\USER\\Desktop\\all\\desktop\\newWeb\\BE\\API\\s6\\Try1-project\\HaneenStore2\\HaneenStore2.PL\\HaneenStore2.PL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USER\\Desktop\\all\\desktop\\newWeb\\BE\\API\\s5\\Try4-project\\HaneenStore2\\HaneenStore2.BLL\\HaneenStore2.BLL.csproj": {
+    "C:\\Users\\USER\\Desktop\\all\\desktop\\newWeb\\BE\\API\\s6\\Try1-project\\HaneenStore2\\HaneenStore2.BLL\\HaneenStore2.BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\Desktop\\all\\desktop\\newWeb\\BE\\API\\s5\\Try4-project\\HaneenStore2\\HaneenStore2.BLL\\HaneenStore2.BLL.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Desktop\\all\\desktop\\newWeb\\BE\\API\\s6\\Try1-project\\HaneenStore2\\HaneenStore2.BLL\\HaneenStore2.BLL.csproj",
         "projectName": "HaneenStore2.BLL",
-        "projectPath": "C:\\Users\\USER\\Desktop\\all\\desktop\\newWeb\\BE\\API\\s5\\Try4-project\\HaneenStore2\\HaneenStore2.BLL\\HaneenStore2.BLL.csproj",
+        "projectPath": "C:\\Users\\USER\\Desktop\\all\\desktop\\newWeb\\BE\\API\\s6\\Try1-project\\HaneenStore2\\HaneenStore2.BLL\\HaneenStore2.BLL.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\Desktop\\all\\desktop\\newWeb\\BE\\API\\s5\\Try4-project\\HaneenStore2\\HaneenStore2.BLL\\obj\\",
+        "outputPath": "C:\\Users\\USER\\Desktop\\all\\desktop\\newWeb\\BE\\API\\s6\\Try1-project\\HaneenStore2\\HaneenStore2.BLL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\USER\\Desktop\\all\\desktop\\newWeb\\BE\\API\\s5\\Try4-project\\HaneenStore2\\HaneenStore2.DAL\\HaneenStore2.DAL.csproj": {
-                "projectPath": "C:\\Users\\USER\\Desktop\\all\\desktop\\newWeb\\BE\\API\\s5\\Try4-project\\HaneenStore2\\HaneenStore2.DAL\\HaneenStore2.DAL.csproj"
+              "C:\\Users\\USER\\Desktop\\all\\desktop\\newWeb\\BE\\API\\s6\\Try1-project\\HaneenStore2\\HaneenStore2.DAL\\HaneenStore2.DAL.csproj": {
+                "projectPath": "C:\\Users\\USER\\Desktop\\all\\desktop\\newWeb\\BE\\API\\s6\\Try1-project\\HaneenStore2\\HaneenStore2.DAL\\HaneenStore2.DAL.csproj"
               }
             }
           }
@@ -53,6 +53,12 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+          "dependencies": {
+            "Mapster": {
+              "target": "Package",
+              "version": "[7.4.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -73,14 +79,14 @@
         }
       }
     },
-    "C:\\Users\\USER\\Desktop\\all\\desktop\\newWeb\\BE\\API\\s5\\Try4-project\\HaneenStore2\\HaneenStore2.DAL\\HaneenStore2.DAL.csproj": {
+    "C:\\Users\\USER\\Desktop\\all\\desktop\\newWeb\\BE\\API\\s6\\Try1-project\\HaneenStore2\\HaneenStore2.DAL\\HaneenStore2.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\Desktop\\all\\desktop\\newWeb\\BE\\API\\s5\\Try4-project\\HaneenStore2\\HaneenStore2.DAL\\HaneenStore2.DAL.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Desktop\\all\\desktop\\newWeb\\BE\\API\\s6\\Try1-project\\HaneenStore2\\HaneenStore2.DAL\\HaneenStore2.DAL.csproj",
         "projectName": "HaneenStore2.DAL",
-        "projectPath": "C:\\Users\\USER\\Desktop\\all\\desktop\\newWeb\\BE\\API\\s5\\Try4-project\\HaneenStore2\\HaneenStore2.DAL\\HaneenStore2.DAL.csproj",
+        "projectPath": "C:\\Users\\USER\\Desktop\\all\\desktop\\newWeb\\BE\\API\\s6\\Try1-project\\HaneenStore2\\HaneenStore2.DAL\\HaneenStore2.DAL.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\Desktop\\all\\desktop\\newWeb\\BE\\API\\s5\\Try4-project\\HaneenStore2\\HaneenStore2.DAL\\obj\\",
+        "outputPath": "C:\\Users\\USER\\Desktop\\all\\desktop\\newWeb\\BE\\API\\s6\\Try1-project\\HaneenStore2\\HaneenStore2.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -154,14 +160,14 @@
         }
       }
     },
-    "C:\\Users\\USER\\Desktop\\all\\desktop\\newWeb\\BE\\API\\s5\\Try4-project\\HaneenStore2\\HaneenStore2.PL\\HaneenStore2.PL.csproj": {
+    "C:\\Users\\USER\\Desktop\\all\\desktop\\newWeb\\BE\\API\\s6\\Try1-project\\HaneenStore2\\HaneenStore2.PL\\HaneenStore2.PL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\Desktop\\all\\desktop\\newWeb\\BE\\API\\s5\\Try4-project\\HaneenStore2\\HaneenStore2.PL\\HaneenStore2.PL.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Desktop\\all\\desktop\\newWeb\\BE\\API\\s6\\Try1-project\\HaneenStore2\\HaneenStore2.PL\\HaneenStore2.PL.csproj",
         "projectName": "HaneenStore2.PL",
-        "projectPath": "C:\\Users\\USER\\Desktop\\all\\desktop\\newWeb\\BE\\API\\s5\\Try4-project\\HaneenStore2\\HaneenStore2.PL\\HaneenStore2.PL.csproj",
+        "projectPath": "C:\\Users\\USER\\Desktop\\all\\desktop\\newWeb\\BE\\API\\s6\\Try1-project\\HaneenStore2\\HaneenStore2.PL\\HaneenStore2.PL.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\Desktop\\all\\desktop\\newWeb\\BE\\API\\s5\\Try4-project\\HaneenStore2\\HaneenStore2.PL\\obj\\",
+        "outputPath": "C:\\Users\\USER\\Desktop\\all\\desktop\\newWeb\\BE\\API\\s6\\Try1-project\\HaneenStore2\\HaneenStore2.PL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -182,8 +188,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\USER\\Desktop\\all\\desktop\\newWeb\\BE\\API\\s5\\Try4-project\\HaneenStore2\\HaneenStore2.BLL\\HaneenStore2.BLL.csproj": {
-                "projectPath": "C:\\Users\\USER\\Desktop\\all\\desktop\\newWeb\\BE\\API\\s5\\Try4-project\\HaneenStore2\\HaneenStore2.BLL\\HaneenStore2.BLL.csproj"
+              "C:\\Users\\USER\\Desktop\\all\\desktop\\newWeb\\BE\\API\\s6\\Try1-project\\HaneenStore2\\HaneenStore2.BLL\\HaneenStore2.BLL.csproj": {
+                "projectPath": "C:\\Users\\USER\\Desktop\\all\\desktop\\newWeb\\BE\\API\\s6\\Try1-project\\HaneenStore2\\HaneenStore2.BLL\\HaneenStore2.BLL.csproj"
               }
             }
           }
@@ -204,10 +210,6 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "dependencies": {
-            "Mapster": {
-              "target": "Package",
-              "version": "[7.4.0, )"
-            },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[9.0.11, )"
