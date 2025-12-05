@@ -1,0 +1,6 @@
+@HaneenStore2.PL_HostAddress = http://localhost:5002
+
+GET {{HaneenStore2.PL_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
