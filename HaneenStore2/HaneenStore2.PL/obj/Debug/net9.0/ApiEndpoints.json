@@ -1,5 +1,37 @@
 [
   {
+    "ContainingType": "HaneenStore2.PL.Controllers.Areas.Identity.AccountController",
+    "Method": "Login",
+    "RelativePath": "api/auth/Account/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "HaneenStore2.DAL.DTOs.Request.LoginRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HaneenStore2.PL.Controllers.Areas.Identity.AccountController",
+    "Method": "Register",
+    "RelativePath": "api/auth/Account/Register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "HaneenStore2.DAL.DTOs.Request.RegisterRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "HaneenStore2.PL.Controllers.CategoriesController",
     "Method": "Index",
     "RelativePath": "api/Categories",

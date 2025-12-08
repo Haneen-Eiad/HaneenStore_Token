@@ -1,38 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\all\\desktop\\newWeb\\BE\\API\\s6\\Try1-project\\HaneenStore2\\",
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\all\\desktop\\newWeb\\BE\\API\\s9\\Try1-project\\HaneenStore2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{16893FAF-E3FC-41C8-9D94-AE0277EF0664}|HaneenStore2.DAL\\HaneenStore2.DAL.csproj|c:\\users\\user\\desktop\\all\\desktop\\newweb\\be\\api\\s6\\try1-project\\haneenstore2\\haneenstore2.dal\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16893FAF-E3FC-41C8-9D94-AE0277EF0664}|HaneenStore2.DAL\\HaneenStore2.DAL.csproj|solutionrelative:haneenstore2.dal\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7D7DD75-806A-4E08-AA1C-6A34537E09FF}|HaneenStore2.PL\\HaneenStore2.PL.csproj|c:\\users\\user\\desktop\\all\\desktop\\newweb\\be\\api\\s6\\try1-project\\haneenstore2\\haneenstore2.pl\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E7D7DD75-806A-4E08-AA1C-6A34537E09FF}|HaneenStore2.PL\\HaneenStore2.PL.csproj|c:\\users\\user\\desktop\\all\\desktop\\newweb\\be\\api\\s9\\try1-project\\haneenstore2\\haneenstore2.pl\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E7D7DD75-806A-4E08-AA1C-6A34537E09FF}|HaneenStore2.PL\\HaneenStore2.PL.csproj|solutionrelative:haneenstore2.pl\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7D7DD75-806A-4E08-AA1C-6A34537E09FF}|HaneenStore2.PL\\HaneenStore2.PL.csproj|c:\\users\\user\\desktop\\all\\desktop\\newweb\\be\\api\\s6\\try1-project\\haneenstore2\\haneenstore2.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{14864A2B-8C01-49EA-9391-79D590172FA7}|HaneenStore2.BLL\\HaneenStore2.BLL.csproj|c:\\users\\user\\desktop\\all\\desktop\\newweb\\be\\api\\s9\\try1-project\\haneenstore2\\haneenstore2.bll\\service\\authentucationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14864A2B-8C01-49EA-9391-79D590172FA7}|HaneenStore2.BLL\\HaneenStore2.BLL.csproj|solutionrelative:haneenstore2.bll\\service\\authentucationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7D7DD75-806A-4E08-AA1C-6A34537E09FF}|HaneenStore2.PL\\HaneenStore2.PL.csproj|c:\\users\\user\\desktop\\all\\desktop\\newweb\\be\\api\\s9\\try1-project\\haneenstore2\\haneenstore2.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E7D7DD75-806A-4E08-AA1C-6A34537E09FF}|HaneenStore2.PL\\HaneenStore2.PL.csproj|solutionrelative:haneenstore2.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{16893FAF-E3FC-41C8-9D94-AE0277EF0664}|HaneenStore2.DAL\\HaneenStore2.DAL.csproj|c:\\users\\user\\desktop\\all\\desktop\\newweb\\be\\api\\s6\\try1-project\\haneenstore2\\haneenstore2.dal\\models\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16893FAF-E3FC-41C8-9D94-AE0277EF0664}|HaneenStore2.DAL\\HaneenStore2.DAL.csproj|solutionrelative:haneenstore2.dal\\models\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16893FAF-E3FC-41C8-9D94-AE0277EF0664}|HaneenStore2.DAL\\HaneenStore2.DAL.csproj|c:\\users\\user\\desktop\\all\\desktop\\newweb\\be\\api\\s6\\try1-project\\haneenstore2\\haneenstore2.dal\\repository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16893FAF-E3FC-41C8-9D94-AE0277EF0664}|HaneenStore2.DAL\\HaneenStore2.DAL.csproj|solutionrelative:haneenstore2.dal\\repository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16893FAF-E3FC-41C8-9D94-AE0277EF0664}|HaneenStore2.DAL\\HaneenStore2.DAL.csproj|c:\\users\\user\\desktop\\all\\desktop\\newweb\\be\\api\\s6\\try1-project\\haneenstore2\\haneenstore2.dal\\dtos\\response\\categoriesresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16893FAF-E3FC-41C8-9D94-AE0277EF0664}|HaneenStore2.DAL\\HaneenStore2.DAL.csproj|solutionrelative:haneenstore2.dal\\dtos\\response\\categoriesresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16893FAF-E3FC-41C8-9D94-AE0277EF0664}|HaneenStore2.DAL\\HaneenStore2.DAL.csproj|c:\\users\\user\\desktop\\all\\desktop\\newweb\\be\\api\\s6\\try1-project\\haneenstore2\\haneenstore2.dal\\dtos\\response\\categorytranslationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16893FAF-E3FC-41C8-9D94-AE0277EF0664}|HaneenStore2.DAL\\HaneenStore2.DAL.csproj|solutionrelative:haneenstore2.dal\\dtos\\response\\categorytranslationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16893FAF-E3FC-41C8-9D94-AE0277EF0664}|HaneenStore2.DAL\\HaneenStore2.DAL.csproj|c:\\users\\user\\desktop\\all\\desktop\\newweb\\be\\api\\s6\\try1-project\\haneenstore2\\haneenstore2.dal\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16893FAF-E3FC-41C8-9D94-AE0277EF0664}|HaneenStore2.DAL\\HaneenStore2.DAL.csproj|solutionrelative:haneenstore2.dal\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{16893FAF-E3FC-41C8-9D94-AE0277EF0664}|HaneenStore2.DAL\\HaneenStore2.DAL.csproj|c:\\users\\user\\desktop\\all\\desktop\\newweb\\be\\api\\s9\\try1-project\\haneenstore2\\haneenstore2.dal\\utilities\\userseeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16893FAF-E3FC-41C8-9D94-AE0277EF0664}|HaneenStore2.DAL\\HaneenStore2.DAL.csproj|solutionrelative:haneenstore2.dal\\utilities\\userseeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,108 +26,59 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ICategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\all\\desktop\\newWeb\\BE\\API\\s6\\Try1-project\\HaneenStore2\\HaneenStore2.DAL\\Repository\\ICategoryRepository.cs",
-              "RelativeDocumentMoniker": "HaneenStore2.DAL\\Repository\\ICategoryRepository.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\all\\desktop\\newWeb\\BE\\API\\s6\\Try1-project\\HaneenStore2\\HaneenStore2.DAL\\Repository\\ICategoryRepository.cs",
-              "RelativeToolTip": "HaneenStore2.DAL\\Repository\\ICategoryRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-05T11:50:22.159Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\all\\desktop\\newWeb\\BE\\API\\s6\\Try1-project\\HaneenStore2\\HaneenStore2.DAL\\Repository\\CategoryRepository.cs",
-              "RelativeDocumentMoniker": "HaneenStore2.DAL\\Repository\\CategoryRepository.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\all\\desktop\\newWeb\\BE\\API\\s6\\Try1-project\\HaneenStore2\\HaneenStore2.DAL\\Repository\\CategoryRepository.cs",
-              "RelativeToolTip": "HaneenStore2.DAL\\Repository\\CategoryRepository.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAbAAAAAAAAAA==",
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\all\\desktop\\newWeb\\BE\\API\\s9\\Try1-project\\HaneenStore2\\HaneenStore2.PL\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "HaneenStore2.PL\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\all\\desktop\\newWeb\\BE\\API\\s9\\Try1-project\\HaneenStore2\\HaneenStore2.PL\\Controllers\\CategoriesController.cs*",
+              "RelativeToolTip": "HaneenStore2.PL\\Controllers\\CategoriesController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-05T11:44:22.763Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BaseModel.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\all\\desktop\\newWeb\\BE\\API\\s6\\Try1-project\\HaneenStore2\\HaneenStore2.DAL\\Models\\BaseModel.cs",
-              "RelativeDocumentMoniker": "HaneenStore2.DAL\\Models\\BaseModel.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\all\\desktop\\newWeb\\BE\\API\\s6\\Try1-project\\HaneenStore2\\HaneenStore2.DAL\\Models\\BaseModel.cs",
-              "RelativeToolTip": "HaneenStore2.DAL\\Models\\BaseModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-05T09:51:40.844Z",
+              "WhenOpened": "2025-12-08T17:15:18.779Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\all\\desktop\\newWeb\\BE\\API\\s6\\Try1-project\\HaneenStore2\\HaneenStore2.PL\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\all\\desktop\\newWeb\\BE\\API\\s9\\Try1-project\\HaneenStore2\\HaneenStore2.PL\\Program.cs",
               "RelativeDocumentMoniker": "HaneenStore2.PL\\Program.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\all\\desktop\\newWeb\\BE\\API\\s6\\Try1-project\\HaneenStore2\\HaneenStore2.PL\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\all\\desktop\\newWeb\\BE\\API\\s9\\Try1-project\\HaneenStore2\\HaneenStore2.PL\\Program.cs",
               "RelativeToolTip": "HaneenStore2.PL\\Program.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAAADMAAABSAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGAAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-05T09:06:51.539Z",
+              "WhenOpened": "2025-12-07T20:32:09.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserSeedData.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\all\\desktop\\newWeb\\BE\\API\\s9\\Try1-project\\HaneenStore2\\HaneenStore2.DAL\\Utilities\\UserSeedData.cs",
+              "RelativeDocumentMoniker": "HaneenStore2.DAL\\Utilities\\UserSeedData.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\all\\desktop\\newWeb\\BE\\API\\s9\\Try1-project\\HaneenStore2\\HaneenStore2.DAL\\Utilities\\UserSeedData.cs",
+              "RelativeToolTip": "HaneenStore2.DAL\\Utilities\\UserSeedData.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwC0AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T19:33:00.993Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CategoriesController.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\all\\desktop\\newWeb\\BE\\API\\s6\\Try1-project\\HaneenStore2\\HaneenStore2.PL\\Controllers\\CategoriesController.cs",
-              "RelativeDocumentMoniker": "HaneenStore2.PL\\Controllers\\CategoriesController.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\all\\desktop\\newWeb\\BE\\API\\s6\\Try1-project\\HaneenStore2\\HaneenStore2.PL\\Controllers\\CategoriesController.cs*",
-              "RelativeToolTip": "HaneenStore2.PL\\Controllers\\CategoriesController.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAiAAAAAAAAAA==",
+              "Title": "AuthentucationService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\all\\desktop\\newWeb\\BE\\API\\s9\\Try1-project\\HaneenStore2\\HaneenStore2.BLL\\Service\\AuthentucationService.cs",
+              "RelativeDocumentMoniker": "HaneenStore2.BLL\\Service\\AuthentucationService.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\all\\desktop\\newWeb\\BE\\API\\s9\\Try1-project\\HaneenStore2\\HaneenStore2.BLL\\Service\\AuthentucationService.cs",
+              "RelativeToolTip": "HaneenStore2.BLL\\Service\\AuthentucationService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAHUAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-05T08:22:05.797Z",
+              "WhenOpened": "2025-12-07T18:33:16.775Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CategoryTranslationResponse.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\all\\desktop\\newWeb\\BE\\API\\s6\\Try1-project\\HaneenStore2\\HaneenStore2.DAL\\DTOs\\Response\\CategoryTranslationResponse.cs",
-              "RelativeDocumentMoniker": "HaneenStore2.DAL\\DTOs\\Response\\CategoryTranslationResponse.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\all\\desktop\\newWeb\\BE\\API\\s6\\Try1-project\\HaneenStore2\\HaneenStore2.DAL\\DTOs\\Response\\CategoryTranslationResponse.cs",
-              "RelativeToolTip": "HaneenStore2.DAL\\DTOs\\Response\\CategoryTranslationResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-05T09:36:45.847Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CategoriesResponse.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\all\\desktop\\newWeb\\BE\\API\\s6\\Try1-project\\HaneenStore2\\HaneenStore2.DAL\\DTOs\\Response\\CategoriesResponse.cs",
-              "RelativeDocumentMoniker": "HaneenStore2.DAL\\DTOs\\Response\\CategoriesResponse.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\all\\desktop\\newWeb\\BE\\API\\s6\\Try1-project\\HaneenStore2\\HaneenStore2.DAL\\DTOs\\Response\\CategoriesResponse.cs",
-              "RelativeToolTip": "HaneenStore2.DAL\\DTOs\\Response\\CategoriesResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABLAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-05T08:26:02.779Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\all\\desktop\\newWeb\\BE\\API\\s6\\Try1-project\\HaneenStore2\\HaneenStore2.DAL\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "HaneenStore2.DAL\\Models\\Category.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\all\\desktop\\newWeb\\BE\\API\\s6\\Try1-project\\HaneenStore2\\HaneenStore2.DAL\\Models\\Category.cs",
-              "RelativeToolTip": "HaneenStore2.DAL\\Models\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-05T08:19:53.259Z"
             }
           ]
         }

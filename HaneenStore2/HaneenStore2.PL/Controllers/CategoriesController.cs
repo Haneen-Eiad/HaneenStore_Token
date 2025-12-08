@@ -4,6 +4,7 @@ using HaneenStore2.DAL.DTOs.Response;
 using HaneenStore2.DAL.Models;
 using HaneenStore2.DAL.Repository;
 using Mapster;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -13,6 +14,7 @@ namespace HaneenStore2.PL.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [Authorize]
     public class CategoriesController : ControllerBase
     {
       
