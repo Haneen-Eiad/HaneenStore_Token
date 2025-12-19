@@ -1,4 +1,5 @@
 
+using HaneenStore2.BLL;
 using HaneenStore2.BLL.Service;
 using HaneenStore2.DAL.Data;
 using HaneenStore2.DAL.Models;
@@ -6,6 +7,7 @@ using HaneenStore2.DAL.Repository;
 using HaneenStore2.DAL.Utilities;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Identity.UI.Services;
 using Microsoft.AspNetCore.Localization;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Options;
@@ -49,7 +51,23 @@ namespace HaneenStore2.PL
                 });
             });
 
-            builder.Services.AddIdentity<ApplicationUser, IdentityRole>()
+            builder.Services.AddIdentity<ApplicationUser, IdentityRole>(Options =>
+            {
+
+              Options.Password.RequireDigit = true;
+                Options.Password.RequireLowercase = true;
+                Options.Password.RequireUppercase = true;
+                Options.Password.RequireNonAlphanumeric = true;
+                Options.Password.RequiredLength = 8;
+
+                Options.User.RequireUniqueEmail = true;
+
+                Options.Lockout.MaxFailedAccessAttempts = 5;
+                Options.Lockout.DefaultLockoutTimeSpan = TimeSpan.FromMinutes(5);
+
+                Options.SignIn.RequireConfirmedEmail = true;
+            }
+            )
                 .AddEntityFrameworkStores<ApplicationDbContext>()
                 .AddDefaultTokenProviders();
 
@@ -112,13 +130,14 @@ namespace HaneenStore2.PL
 
         
             builder.Services.AddSwaggerGen();
-
+            builder.Services.AddScoped<ICategoryService, CategoryService>();
             builder.Services.AddScoped<ICategoryRepository, CategoryRepository>();
             builder.Services.AddScoped<ISeedData, UserSeedData>();
             builder.Services.AddScoped<ISeedData, RoleSeedData>();
             
             builder.Services.AddScoped<IAuthenticationService, AuthentucationService>();
-
+            builder.Services.AddTransient<IEmailSender, EmailSender>();
+          
             var app = builder.Build();
 
             app.UseRequestLocalization(app.Services.GetRequiredService<IOptions<RequestLocalizationOptions>>().Value);

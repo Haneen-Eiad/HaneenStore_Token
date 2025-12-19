@@ -26,9 +26,4 @@
     <ProjectReference Include="..\HaneenStore2.BLL\HaneenStore2.BLL.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Controllers\Areas\Admin\" />
-    <Folder Include="Controllers\Areas\User\" />
-  </ItemGroup>
-
 </Project>

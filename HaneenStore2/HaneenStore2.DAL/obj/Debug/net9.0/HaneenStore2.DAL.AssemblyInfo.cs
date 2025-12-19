@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HaneenStore2.DAL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7f330f419111971549a36afa0be834f5e3e72546")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+099e57bad6afc6d64cbb9f72036e1cbf1a4d1705")]
 [assembly: System.Reflection.AssemblyProductAttribute("HaneenStore2.DAL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HaneenStore2.DAL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

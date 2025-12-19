@@ -1,5 +1,42 @@
 [
   {
+    "ContainingType": "HaneenStore2.PL.Controllers.Areas.Admin.CategoriesController",
+    "Method": "Create",
+    "RelativePath": "api/admin/Categories",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "HaneenStore2.DAL.DTOs.Request.CategoriesRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HaneenStore2.PL.Controllers.Areas.Identity.AccountController",
+    "Method": "ConfirmEmail",
+    "RelativePath": "api/auth/Account/ConfirmEmail",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "token",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "userId",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "HaneenStore2.PL.Controllers.Areas.Identity.AccountController",
     "Method": "Login",
     "RelativePath": "api/auth/Account/Login",
@@ -32,29 +69,45 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "HaneenStore2.PL.Controllers.CategoriesController",
-    "Method": "Index",
-    "RelativePath": "api/Categories",
-    "HttpMethod": "GET",
+    "ContainingType": "HaneenStore2.PL.Controllers.Areas.Identity.AccountController",
+    "Method": "ResetPassword",
+    "RelativePath": "api/auth/Account/ResetPassword",
+    "HttpMethod": "PATCH",
     "IsController": true,
     "Order": 0,
-    "Parameters": [],
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "HaneenStore2.DAL.DTOs.Request.ResetPasswordRequest",
+        "IsRequired": true
+      }
+    ],
     "ReturnTypes": []
   },
   {
-    "ContainingType": "HaneenStore2.PL.Controllers.CategoriesController",
-    "Method": "Create",
-    "RelativePath": "api/Categories",
+    "ContainingType": "HaneenStore2.PL.Controllers.Areas.Identity.AccountController",
+    "Method": "RequestPasswordReset",
+    "RelativePath": "api/auth/Account/SendCode",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
         "Name": "request",
-        "Type": "HaneenStore2.DAL.DTOs.Request.CategoriesRequest",
+        "Type": "HaneenStore2.DAL.DTOs.Request.ForgetPasswordRequest",
         "IsRequired": true
       }
     ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HaneenStore2.PL.Controllers.Areas.User.CategoriesController",
+    "Method": "Index",
+    "RelativePath": "api/Categories",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
     "ReturnTypes": []
   },
   {
